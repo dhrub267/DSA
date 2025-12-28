@@ -9,17 +9,73 @@
 // }
 
 
+// class Solution {
+//     int missingNum(int arr[]) {
+//     int n=arr.length+1;
+//     //sum of natural number of n=n+1;
+//     long sum1=(long)n*(n+1)/2;
+//     long sum2=0;
+//     for(int i=0; i<n-1; i++){
+//         sum2=sum2+arr[i];
+//     }
+//     return (int)(sum1-sum2);
+//     }
+// }
+
+
+
+
 class Solution {
     int missingNum(int arr[]) {
-    int n=arr.length+1;
-    //sum of natural number of n=n+1;
-    long sum1=(long)n*(n+1)/2;
-    long sum2=0;
-    for(int i=0; i<n-1; i++){
-        sum2=sum2+arr[i];
+        //code here
+        int arraySum=0;
+        int digitSum=0;
+        int n=arr.length;
+        
+        for(int i=0; i<n; i++){
+            arraySum=arraySum + arr[i];
+        }
+        
+         for(int i=0; i<=n+1; i++){
+            digitSum=digitSum + i;
+        }
+        
+        int ans=digitSum-arraySum;
+         return ans;
     }
-    return (int)(sum1-sum2);
-    }
+   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
