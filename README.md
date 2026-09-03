@@ -35,4 +35,8 @@ DSA Solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dhrub267/DSA/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhrub267/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
