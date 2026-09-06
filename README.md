@@ -13,6 +13,7 @@ DSA Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhrub267/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhrub267/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -39,4 +40,16 @@ DSA Solution
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhrub267/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhrub267/DSA/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhrub267/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhrub267/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
