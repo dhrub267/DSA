@@ -21,6 +21,7 @@ DSA Solution
 | [0069-sqrtx](https://github.com/dhrub267/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/dhrub267/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhrub267/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0441-arranging-coins](https://github.com/dhrub267/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/dhrub267/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhrub267/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dhrub267/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -36,6 +37,7 @@ DSA Solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dhrub267/DSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/dhrub267/DSA/tree/master/0441-arranging-coins) |
 ## Ternary Search
 |  |
 | ------- |
